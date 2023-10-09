@@ -2,11 +2,10 @@ import java.util.Scanner;
 
 public class Main {
         public static void main (String[] args) {
-
-
+                System.out.println("Introdu un numar 1-10");
+               
             Scanner scanner = new Scanner(System.in);
             int A = scanner.nextInt();
-            System.out.println();
 
             if(A == 1) {
                 System.out.println("NUMAR IMPAR");
