@@ -27,7 +27,7 @@ public class Main {
             }
 
             else if(A > 5 && A < 11) {
-                System.out.println("Suma = "+(6+8+9+10));
+                System.out.println("Suma de la 6 pina la 10 = "+(6+8+9+10));
             }
 
             else if(A == 0) {
